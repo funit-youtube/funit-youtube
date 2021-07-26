@@ -11,3 +11,5 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UC3dWV2fMyyq5RopkAPSxB7w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"></a>
 </p>
+
+<img src="https://github.com/funit-youtube/funit-youtube/blob/output/github-contribution-grid-snake.svg">
